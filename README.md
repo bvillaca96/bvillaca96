@@ -3,7 +3,7 @@
 <h2>👨‍💻 Development Projects:</h2>
 
 - <b>Python</b>
-  - [Portolfio Return Calculator](https://github.com/Vbrennon/Portfolio-Return-Calculator)
+  - [Portfolio Return Calculator](https://github.com/Vbrennon/Portfolio-Return-Calculator)
   - 
 
 <h2>👨‍💻 Certifications:</h2>
