@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Portfolio Return Calculator](https://github.com/Vbrennon/Portfolio-Return-Calculator)
-  - 
+  - [Statistical Analysis of Homo Sapien brain Size](https://github.com/Vbrennon/Segmented-Regression)
 
 <h2>👨‍💻 Certifications:</h2>
 
