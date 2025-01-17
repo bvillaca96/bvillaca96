@@ -10,3 +10,5 @@
 
 - <b>ITS Python</b>
 - <b>CWNA</b>
+- <b>CCNA</b>
+- <b>DEVASC</b>
